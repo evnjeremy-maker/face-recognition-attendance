@@ -1,0 +1,14 @@
+# Ignore the virtual environment
+.venv/
+env/
+
+# Ignore personal face data and trained models
+dataset/
+trainer/
+
+# Ignore local attendance logs
+attendance.csv
+
+# Ignore Python background junk
+__pycache__/
+*.pyc
